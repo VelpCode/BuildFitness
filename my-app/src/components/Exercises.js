@@ -2,12 +2,7 @@ import React from 'react'
 
 const Exercises = () => {
   return (
-    <Stack>
-
-
-
-      
-    </Stack>
+    <div>Exercises</div>
   )
 }
 
